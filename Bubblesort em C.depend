@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1721020199 source:c:\users\pc\desktop\c - projetos\bubblesort em c\bubblesort em c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
